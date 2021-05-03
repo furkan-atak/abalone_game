@@ -1,2 +1,0 @@
-abalone.Client
-abalone.Listen
